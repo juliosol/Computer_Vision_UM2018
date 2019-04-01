@@ -1,0 +1,27 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[B{\"u}rgisser and Cucker(2013)]{Brgisser2013}
+Peter B{\"u}rgisser and Felipe Cucker.
+\newblock \emph{Homotopy Continuation and Newton's Method}, pages 283--294.
+\newblock Springer Berlin Heidelberg, Berlin, Heidelberg, 2013.
+\newblock ISBN 978-3-642-38896-5.
+\newblock \doi{10.1007/978-3-642-38896-5_15}.
+\newblock URL \url{https://doi.org/10.1007/978-3-642-38896-5_15}.
+
+\bibitem[Patra and Nanda(2007)]{Patra:2007:ISU:1335117.1335489}
+Dipti Patra and P.~K. Nanda.
+\newblock Image segmentation using markov random field model learning feature
+  and parallel hybrid algorithm.
+\newblock In \emph{Proceedings of the International Conference on Computational
+  Intelligence and Multimedia Applications (ICCIMA 2007) - Volume 03}, ICCIMA
+  '07, pages 400--407, Washington, DC, USA, 2007. IEEE Computer Society.
+\newblock ISBN 0-7695-3050-8.
+\newblock \doi{10.1109/ICCIMA.2007.234}.
+\newblock URL \url{http://dx.doi.org/10.1109/ICCIMA.2007.234}.
+
+\end{thebibliography}
